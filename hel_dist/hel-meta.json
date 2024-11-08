@@ -1,0 +1,79 @@
+{
+  "app": {
+    "name": "hel-comps-sjkj",
+    "app_group_name": "hel-comps-sjkj",
+    "git_repo_url": "",
+    "online_version": "1.5.1",
+    "build_version": "1.5.1"
+  },
+  "version": {
+    "plugin_ver": "4.3.11",
+    "extract_mode": "build",
+    "sub_app_name": "hel-comps-sjkj",
+    "sub_app_version": "1.5.1",
+    "src_map": {
+      "webDirPath": "https://unpkg.com/hel-comps-sjkj@1.5.1/hel_dist",
+      "htmlIndexSrc": "https://unpkg.com/hel-comps-sjkj@1.5.1/hel_dist/index.html",
+      "extractMode": "all",
+      "iframeSrc": "",
+      "chunkCssSrcList": [
+        "https://unpkg.com/hel-comps-sjkj@1.5.1/hel_dist/css/chunk-300baced.c4df890f.css"
+      ],
+      "chunkJsSrcList": [
+        "https://unpkg.com/hel-comps-sjkj@1.5.1/hel_dist/js/app~e2e93592.e21e2e5f.js",
+        "https://unpkg.com/hel-comps-sjkj@1.5.1/hel_dist/js/chunk-300baced.7ee73cf8.js"
+      ],
+      "staticCssSrcList": [],
+      "staticJsSrcList": [
+        "https://tnfe.gtimg.com/hel-external/level1/comb-v1-2.7.14-vue.js"
+      ],
+      "relativeCssSrcList": [],
+      "relativeJsSrcList": [],
+      "privCssSrcList": [],
+      "headAssetList": [
+        {
+          "tag": "staticScript",
+          "append": false,
+          "attrs": {
+            "src": "https://tnfe.gtimg.com/hel-external/level1/comb-v1-2.7.14-vue.js"
+          }
+        },
+        {
+          "tag": "link",
+          "append": true,
+          "attrs": {
+            "href": "https://unpkg.com/hel-comps-sjkj@1.5.1/hel_dist/css/chunk-300baced.c4df890f.css",
+            "rel": "prefetch"
+          }
+        },
+        {
+          "tag": "link",
+          "append": true,
+          "attrs": {
+            "href": "https://unpkg.com/hel-comps-sjkj@1.5.1/hel_dist/js/chunk-300baced.7ee73cf8.js",
+            "rel": "prefetch"
+          }
+        },
+        {
+          "tag": "link",
+          "append": true,
+          "attrs": {
+            "href": "https://unpkg.com/hel-comps-sjkj@1.5.1/hel_dist/js/app~e2e93592.e21e2e5f.js",
+            "rel": "preload",
+            "as": "script"
+          }
+        }
+      ],
+      "bodyAssetList": [
+        {
+          "tag": "script",
+          "append": true,
+          "attrs": {
+            "src": "https://unpkg.com/hel-comps-sjkj@1.5.1/hel_dist/js/app~e2e93592.e21e2e5f.js"
+          }
+        }
+      ]
+    },
+    "html_content": "<!DOCTYPE html><html lang=\"\"><head><meta charset=\"utf-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><title>tpl-remote-vue-comp</title><script src=\"https://tnfe.gtimg.com/hel-external/level1/comb-v1-2.7.14-vue.js\"></script><link href=\"https://unpkg.com/hel-comps-sjkj@1.5.1/hel_dist/css/chunk-300baced.c4df890f.css\" rel=\"prefetch\"><link href=\"https://unpkg.com/hel-comps-sjkj@1.5.1/hel_dist/js/chunk-300baced.7ee73cf8.js\" rel=\"prefetch\"><link href=\"https://unpkg.com/hel-comps-sjkj@1.5.1/hel_dist/js/app~e2e93592.e21e2e5f.js\" rel=\"preload\" as=\"script\"></head><body><noscript><strong>We're sorry but hel-comps-sjkj doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id=\"app\"></div><script src=\"https://unpkg.com/hel-comps-sjkj@1.5.1/hel_dist/js/app~e2e93592.e21e2e5f.js\"></script></body></html>"
+  }
+}
